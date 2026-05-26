@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpncrypt",
+        "uuid": 1801443,
+        "checksum": "xbnybc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
